@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shivam tripathe👋</h1>
-<h3 align="center">Salesforce Developer · Solutions Architect · Speaker</h3>
+<h3 align="center">Lead Salesforce Developer</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Salesforce-3.5%2B%20Years-00A1E0?logo=salesforce&logoColor=white" />
